@@ -14,6 +14,8 @@ public class NoSum {
         int sum = no1 + no2 + no3;
         System.out.print("The Sum is:");
         System.out.println(sum);
+        // Chnage Made For Merge 
+        int sub = 20 - 10;
+        print(sub);
     }
-    
 }
